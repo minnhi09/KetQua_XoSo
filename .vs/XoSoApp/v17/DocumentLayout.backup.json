@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\XoSoApp\\KetQua_XoSo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F157196-48B4-4CEE-BFDD-8029669EF313}|XoSoApp.csproj|d:\\xosoapp\\ketqua_xoso\\rsssource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F157196-48B4-4CEE-BFDD-8029669EF313}|XoSoApp.csproj|solutionrelative:rsssource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F157196-48B4-4CEE-BFDD-8029669EF313}|XoSoApp.csproj|d:\\xosoapp\\ketqua_xoso\\rssitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F157196-48B4-4CEE-BFDD-8029669EF313}|XoSoApp.csproj|solutionrelative:rssitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F157196-48B4-4CEE-BFDD-8029669EF313}|XoSoApp.csproj|d:\\xosoapp\\ketqua_xoso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F157196-48B4-4CEE-BFDD-8029669EF313}|XoSoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F157196-48B4-4CEE-BFDD-8029669EF313}|XoSoApp.csproj|d:\\xosoapp\\ketqua_xoso\\lotteryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F157196-48B4-4CEE-BFDD-8029669EF313}|XoSoApp.csproj|solutionrelative:lotteryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RssSource.cs",
+              "DocumentMoniker": "D:\\XoSoApp\\KetQua_XoSo\\RssSource.cs",
+              "RelativeDocumentMoniker": "RssSource.cs",
+              "ToolTip": "D:\\XoSoApp\\KetQua_XoSo\\RssSource.cs",
+              "RelativeToolTip": "RssSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:21:34.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RssItem.cs",
+              "DocumentMoniker": "D:\\XoSoApp\\KetQua_XoSo\\RssItem.cs",
+              "RelativeDocumentMoniker": "RssItem.cs",
+              "ToolTip": "D:\\XoSoApp\\KetQua_XoSo\\RssItem.cs",
+              "RelativeToolTip": "RssItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:21:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\XoSoApp\\KetQua_XoSo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\XoSoApp\\KetQua_XoSo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:21:25.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LotteryResult.cs",
+              "DocumentMoniker": "D:\\XoSoApp\\KetQua_XoSo\\LotteryResult.cs",
+              "RelativeDocumentMoniker": "LotteryResult.cs",
+              "ToolTip": "D:\\XoSoApp\\KetQua_XoSo\\LotteryResult.cs",
+              "RelativeToolTip": "LotteryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:21:22.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

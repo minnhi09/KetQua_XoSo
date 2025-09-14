@@ -1,0 +1,10 @@
+D:\XoSoApp\KetQua_XoSo\bin\Debug\WindowsFormsApp1.exe.config
+D:\XoSoApp\KetQua_XoSo\bin\Debug\WindowsFormsApp1.exe
+D:\XoSoApp\KetQua_XoSo\bin\Debug\WindowsFormsApp1.pdb
+D:\XoSoApp\KetQua_XoSo\obj\Debug\XoSoApp.csproj.AssemblyReference.cache
+D:\XoSoApp\KetQua_XoSo\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\XoSoApp\KetQua_XoSo\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\XoSoApp\KetQua_XoSo\obj\Debug\XoSoApp.csproj.GenerateResource.cache
+D:\XoSoApp\KetQua_XoSo\obj\Debug\XoSoApp.csproj.CoreCompileInputs.cache
+D:\XoSoApp\KetQua_XoSo\obj\Debug\WindowsFormsApp1.exe
+D:\XoSoApp\KetQua_XoSo\obj\Debug\WindowsFormsApp1.pdb

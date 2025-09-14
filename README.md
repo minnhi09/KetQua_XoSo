@@ -1,23 +1,38 @@
-# RSS Reader - Ứng dụng đọc RSS Kết quả xổ số
+# XoSoApp - Ứng dụng Kết quả Xổ số
 
 ## Mô tả
 
-Ứng dụng Windows Forms để tải và hiển thị dữ liệu RSS từ các nguồn xổ số khác nhau bao gồm Miền Nam, Miền Trung, Miền Bắc và các tỉnh.
+Ứng dụng Windows Forms để tải và hiển thị kết quả xổ số từ các nguồn RSS của tất cả các tỉnh thành trong cả 3 miền Bắc, Trung, Nam. Ứng dụng đã được nâng cấp để hỗ trợ đầy đủ 63 tỉnh thành với giao diện thân thiện và tính năng phân tích dữ liệu thông minh.
 
-## Tính năng
+## Tính năng chính
 
-- **Chọn nguồn RSS**: ComboBox với các tùy chọn có sẵn:
-  - XS An Giang (hiện tại)
-- **Phân tích dữ liệu thông minh**: 
-  - Tự động trích xuất ngày từ tiêu đề RSS
-  - Parse description theo pattern "Giải: Kết quả"
-  - Phân tách các giải thưởng (ĐB, 1, 2, 3, 4, 5, 6, 7)
-- **ComboBox ngày**: Chọn kết quả theo từng ngày cụ thể
-- **Hiển thị chi tiết**: Bảng dữ liệu với các cột:
-  - **Ngày**: Ngày quay số được trích xuất từ title
-  - **Giải thưởng**: Loại giải (ĐB, 1, 2, 3, 4, 5, 6, 7)
-  - **Kết quả**: Các số trúng thưởng
-  - **Tỉnh/Thành**: Nguồn xổ số
+### 🌍 **Hỗ trợ đa miền đầy đủ**
+
+- **Miền Nam** (18 tỉnh): An Giang, Bạc Liêu, Bến Tre, Cà Mau, Cần Thơ, Đồng Tháp, Hậu Giang, Kiên Giang, Long An, Sóc Trăng, Tây Ninh, Tiền Giang, Trà Vinh, Vĩnh Long, TP.HCM, Đồng Nai, Bình Dương, Vũng Tàu
+- **Miền Trung** (16 tỉnh): Đà Nẵng, Khánh Hòa, Phú Yên, Đắk Lắk, Quảng Nam, Quảng Ngãi, Bình Định, Quảng Bình, Quảng Trị, Thừa Thiên Huế, Đắk Nông, Lâm Đồng, Bình Thuận, Ninh Thuận, Gia Lai, Kon Tum
+- **Miền Bắc** (27 tỉnh): Hà Nội, Quảng Ninh, Bắc Ninh, Hải Phòng, Nam Định, Thái Bình, Vĩnh Phúc, Hà Nam, Hưng Yên, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Hòa Bình, Sơn La, Điện Biên, Lai Châu, Lào Cai, Yên Bái, Tuyên Quang, Hà Giang, Cao Bằng, Bắc Kạn, Lạng Sơn, Thái Nguyên, Phú Thọ, Bắc Giang
+
+### 🔄 **Chức năng tải và hiển thị**
+
+- **Tải RSS thời gian thực**: Kết nối và tải dữ liệu mới nhất từ các nguồn RSS
+- **Chọn nguồn linh hoạt**: ComboBox phân loại rõ ràng theo miền và tỉnh
+- **Hiển thị theo ngày**: ComboBox chọn ngày để xem kết quả cụ thể
+
+### 🧠 **Phân tích dữ liệu thông minh**
+
+- **Trích xuất ngày tự động**: Hỗ trợ nhiều định dạng ngày tháng khác nhau
+- **Parse description đa dạng**: Xử lý các pattern "Giải: Kết quả" với nhiều biến thể
+- **Chuẩn hóa giải thưởng**: Tự động chuyển đổi ĐB, 1, 2, 3... thành tên giải đầy đủ
+- **Tách số thông minh**: Xử lý các số được phân tách bởi dấu gạch ngang
+
+### 📊 **Giao diện và hiển thị**
+
+- **DataGridView cải tiến**: Màu sắc phân biệt hàng, font chữ dễ đọc
+- **Cột thông tin đầy đủ**:
+  - **Ngày**: Ngày quay số
+  - **Giải thưởng**: Tên giải đã chuẩn hóa
+  - **Kết quả**: Số trúng thưởng (font Consolas, bold)
+  - **Tỉnh/Thành (Miền)**: Nguồn với thông tin miền
 - **Giao diện trực quan**: Hai ComboBox và bảng dữ liệu dễ theo dõi
 - **Xử lý lỗi**: Thông báo trạng thái và xử lý lỗi
 

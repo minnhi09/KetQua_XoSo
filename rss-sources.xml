@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RssSources>
+    <!-- Miền Nam -->
+    <Region name="Miền Nam">
+        <RssSource displayName="XS An Giang" province="An Giang"
+            url="https://xskt.com.vn/rss-feed/an-giang-xsag.rss" />
+        <RssSource displayName="XS Bạc Liêu" province="Bạc Liêu"
+            url="https://xskt.com.vn/rss-feed/bac-lieu-xsbl.rss" />
+        <RssSource displayName="XS Bến Tre" province="Bến Tre"
+            url="https://xskt.com.vn/rss-feed/ben-tre-xsbt.rss" />
+        <RssSource displayName="XS Cà Mau" province="Cà Mau"
+            url="https://xskt.com.vn/rss-feed/ca-mau-xscm.rss" />
+        <RssSource displayName="XS Cần Thơ" province="Cần Thơ"
+            url="https://xskt.com.vn/rss-feed/can-tho-xsct.rss" />
+        <RssSource displayName="XS Đồng Tháp" province="Đồng Tháp"
+            url="https://xskt.com.vn/rss-feed/dong-thap-xsdt.rss" />
+        <RssSource displayName="XS Hậu Giang" province="Hậu Giang"
+            url="https://xskt.com.vn/rss-feed/hau-giang-xshg.rss" />
+        <RssSource displayName="XS Kiên Giang" province="Kiên Giang"
+            url="https://xskt.com.vn/rss-feed/kien-giang-xskg.rss" />
+        <RssSource displayName="XS Long An" province="Long An"
+            url="https://xskt.com.vn/rss-feed/long-an-xsla.rss" />
+        <RssSource displayName="XS Sóc Trăng" province="Sóc Trăng"
+            url="https://xskt.com.vn/rss-feed/soc-trang-xsst.rss" />
+        <RssSource displayName="XS Tây Ninh" province="Tây Ninh"
+            url="https://xskt.com.vn/rss-feed/tay-ninh-xstn.rss" />
+        <RssSource displayName="XS Tiền Giang" province="Tiền Giang"
+            url="https://xskt.com.vn/rss-feed/tien-giang-xstg.rss" />
+        <RssSource displayName="XS Trà Vinh" province="Trà Vinh"
+            url="https://xskt.com.vn/rss-feed/tra-vinh-xstv.rss" />
+        <RssSource displayName="XS Vĩnh Long" province="Vĩnh Long"
+            url="https://xskt.com.vn/rss-feed/vinh-long-xsvl.rss" />
+        <RssSource displayName="XS TP.HCM" province="TP.HCM"
+            url="https://xskt.com.vn/rss-feed/tp-hcm-xshcm.rss" />
+        <RssSource displayName="XS Đồng Nai" province="Đồng Nai"
+            url="https://xskt.com.vn/rss-feed/dong-nai-xsdn.rss" />
+        <RssSource displayName="XS Bình Dương" province="Bình Dương"
+            url="https://xskt.com.vn/rss-feed/binh-duong-xsbd.rss" />
+        <RssSource displayName="XS Vũng Tàu" province="Vũng Tàu"
+            url="https://xskt.com.vn/rss-feed/vung-tau-xsvt.rss" />
+    </Region>
+
+    <!-- Miền Trung -->
+    <Region name="Miền Trung">
+        <RssSource displayName="XS Đà Nẵng" province="Đà Nẵng"
+            url="https://xskt.com.vn/rss-feed/da-nang-xsdng.rss" />
+        <RssSource displayName="XS Khánh Hòa" province="Khánh Hòa"
+            url="https://xskt.com.vn/rss-feed/khanh-hoa-xskh.rss" />
+        <RssSource displayName="XS Phú Yên" province="Phú Yên"
+            url="https://xskt.com.vn/rss-feed/phu-yen-xspy.rss" />
+        <RssSource displayName="XS Đắk Lắk" province="Đắk Lắk"
+            url="https://xskt.com.vn/rss-feed/dac-lac-xsdl.rss" />
+        <RssSource displayName="XS Quảng Nam" province="Quảng Nam"
+            url="https://xskt.com.vn/rss-feed/quang-nam-xsqnm.rss" />
+        <RssSource displayName="XS Quảng Ngãi" province="Quảng Ngãi"
+            url="https://xskt.com.vn/rss-feed/quang-ngai-xsqng.rss" />
+        <RssSource displayName="XS Bình Định" province="Bình Định"
+            url="https://xskt.com.vn/rss-feed/binh-dinh-xsbdi.rss" />
+        <RssSource displayName="XS Quảng Bình" province="Quảng Bình"
+            url="https://xskt.com.vn/rss-feed/quang-binh-xsqb.rss" />
+        <RssSource displayName="XS Quảng Trị" province="Quảng Trị"
+            url="https://xskt.com.vn/rss-feed/quang-tri-xsqt.rss" />
+        <RssSource displayName="XS Thừa T.Huế" province="Thừa Thiên Huế"
+            url="https://xskt.com.vn/rss-feed/thua-thien-hue-xstth.rss" />
+        <RssSource displayName="XS Đắk Nông" province="Đắk Nông"
+            url="https://xskt.com.vn/rss-feed/dac-nong-xsdn.rss" />
+        <RssSource displayName="XS Lâm Đồng" province="Lâm Đồng"
+            url="https://xskt.com.vn/rss-feed/lam-dong-xsld.rss" />
+        <RssSource displayName="XS Bình Thuận" province="Bình Thuận"
+            url="https://xskt.com.vn/rss-feed/binh-thuan-xsbth.rss" />
+        <RssSource displayName="XS Ninh Thuận" province="Ninh Thuận"
+            url="https://xskt.com.vn/rss-feed/ninh-thuan-xsnt.rss" />
+        <RssSource displayName="XS Gia Lai" province="Gia Lai"
+            url="https://xskt.com.vn/rss-feed/gia-lai-xsgl.rss" />
+        <RssSource displayName="XS Kon Tum" province="Kon Tum"
+            url="https://xskt.com.vn/rss-feed/kon-tum-xskt.rss" />
+    </Region>
+
+    <!-- Miền Bắc -->
+    <Region name="Miền Bắc">
+        <RssSource displayName="XS Hà Nội" province="Hà Nội"
+            url="https://xskt.com.vn/rss-feed/ha-noi-xshn.rss" />
+        <RssSource displayName="XS Quảng Ninh" province="Quảng Ninh"
+            url="https://xskt.com.vn/rss-feed/quang-ninh-xsqn.rss" />
+        <RssSource displayName="XS Bắc Ninh" province="Bắc Ninh"
+            url="https://xskt.com.vn/rss-feed/bac-ninh-xsbn.rss" />
+        <RssSource displayName="XS Hải Phòng" province="Hải Phòng"
+            url="https://xskt.com.vn/rss-feed/hai-phong-xshp.rss" />
+        <RssSource displayName="XS Nam Định" province="Nam Định"
+            url="https://xskt.com.vn/rss-feed/nam-dinh-xsnd.rss" />
+        <RssSource displayName="XS Thái Bình" province="Thái Bình"
+            url="https://xskt.com.vn/rss-feed/thai-binh-xstb.rss" />
+        <RssSource displayName="XS Vĩnh Phúc" province="Vĩnh Phúc"
+            url="https://xskt.com.vn/rss-feed/vinh-phuc-xsvp.rss" />
+        <RssSource displayName="XS Hà Nam" province="Hà Nam"
+            url="https://xskt.com.vn/rss-feed/ha-nam-xshnm.rss" />
+        <RssSource displayName="XS Hưng Yên" province="Hưng Yên"
+            url="https://xskt.com.vn/rss-feed/hung-yen-xshy.rss" />
+        <RssSource displayName="XS Ninh Bình" province="Ninh Bình"
+            url="https://xskt.com.vn/rss-feed/ninh-binh-xsnb.rss" />
+        <RssSource displayName="XS Thanh Hóa" province="Thanh Hóa"
+            url="https://xskt.com.vn/rss-feed/thanh-hoa-xsth.rss" />
+        <RssSource displayName="XS Nghệ An" province="Nghệ An"
+            url="https://xskt.com.vn/rss-feed/nghe-an-xsna.rss" />
+        <RssSource displayName="XS Hà Tĩnh" province="Hà Tĩnh"
+            url="https://xskt.com.vn/rss-feed/ha-tinh-xsht.rss" />
+        <RssSource displayName="XS Hòa Bình" province="Hòa Bình"
+            url="https://xskt.com.vn/rss-feed/hoa-binh-xshb.rss" />
+        <RssSource displayName="XS Sơn La" province="Sơn La"
+            url="https://xskt.com.vn/rss-feed/son-la-xssl.rss" />
+        <RssSource displayName="XS Điện Biên" province="Điện Biên"
+            url="https://xskt.com.vn/rss-feed/dien-bien-xsdb.rss" />
+        <RssSource displayName="XS Lai Châu" province="Lai Châu"
+            url="https://xskt.com.vn/rss-feed/lai-chau-xslc.rss" />
+        <RssSource displayName="XS Lào Cai" province="Lào Cai"
+            url="https://xskt.com.vn/rss-feed/lao-cai-xslca.rss" />
+        <RssSource displayName="XS Yên Bái" province="Yên Bái"
+            url="https://xskt.com.vn/rss-feed/yen-bai-xsyb.rss" />
+        <RssSource displayName="XS Tuyên Quang" province="Tuyên Quang"
+            url="https://xskt.com.vn/rss-feed/tuyen-quang-xstq.rss" />
+        <RssSource displayName="XS Hà Giang" province="Hà Giang"
+            url="https://xskt.com.vn/rss-feed/ha-giang-xshg.rss" />
+        <RssSource displayName="XS Cao Bằng" province="Cao Bằng"
+            url="https://xskt.com.vn/rss-feed/cao-bang-xscb.rss" />
+        <RssSource displayName="XS Bắc Kạn" province="Bắc Kạn"
+            url="https://xskt.com.vn/rss-feed/bac-kan-xsbk.rss" />
+        <RssSource displayName="XS Lạng Sơn" province="Lạng Sơn"
+            url="https://xskt.com.vn/rss-feed/lang-son-xsls.rss" />
+        <RssSource displayName="XS Thái Nguyên" province="Thái Nguyên"
+            url="https://xskt.com.vn/rss-feed/thai-nguyen-xstn.rss" />
+        <RssSource displayName="XS Phú Thọ" province="Phú Thọ"
+            url="https://xskt.com.vn/rss-feed/phu-tho-xspt.rss" />
+        <RssSource displayName="XS Bắc Giang" province="Bắc Giang"
+            url="https://xskt.com.vn/rss-feed/bac-giang-xsbg.rss" />
+    </Region>
+</RssSources>
